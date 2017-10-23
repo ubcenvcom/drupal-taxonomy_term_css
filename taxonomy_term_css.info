@@ -1,0 +1,5 @@
+name = Taxonomy term CSS formatter
+description = Provides a field formatter to output taxonomy terms as CSS class names
+core = 7.x
+dependencies[] = taxonomy
+
